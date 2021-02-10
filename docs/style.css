@@ -1,0 +1,17 @@
+body {
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 3vw;
+    font-family: 'Catamaran', sans-serif;
+    color: #202D33;
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
+    color: #3cb923;
+}
+
+h1 {
+    font-family: 'Catamaran', sans-serif;
+    color: #aa1c5e;
+}
