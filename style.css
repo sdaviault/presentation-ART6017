@@ -1,17 +1,24 @@
 body {
-    margin-left: 1vw;
-    margin-right: 1vw;
-    margin-top: 3vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vw;
     font-family: 'Catamaran', sans-serif;
     color: #202D33;
 }
 
-p {
+h1,h2 {
     font-family: 'Catamaran', sans-serif;
-    color: #3cb923;
+    color: #384F59;
 }
 
-h1 {
-    font-family: 'Catamaran', sans-serif;
-    color: #aa1c5e;
+.galerie {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 3vw;
+}
+
+.images {
+    padding: 3vw;
 }
