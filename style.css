@@ -20,5 +20,6 @@ h1,h2 {
 }
 
 .images {
-    padding: 3vw;
+    padding: 1vw;
+    width: 21vw;
 }
